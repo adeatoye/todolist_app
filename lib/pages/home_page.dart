@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Colors.redAccent[100],
       appBar: AppBar(
-        backgroundColor: Colors.redAccent[900],
+        backgroundColor: Colors.red[600],
         centerTitle: true,
         title: Text("ToDo App"),
         // elevation: 10,
